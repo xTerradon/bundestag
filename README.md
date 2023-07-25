@@ -1,8 +1,6 @@
 # bundestag
 Visualizations of publicly available data on the German Bundestag
 
-## Data Importing
-Live Data Scraping through selenium, selenium-stealth, bs4 from https://www.bundestag.de/services/opendata
 
 ## Data Analysis
 Data Collection from .xml files
@@ -19,3 +17,6 @@ Data Collection from .xml files
 ![3cbf5ab4-0813-4b0d-87f2-369b7ac2c190](https://github.com/xTerradon/bundestag/assets/64305142/259636d2-9d69-4257-86da-212a08381c58)
 ![bffbd2af-32c1-4f96-9852-a67b234d159f](https://github.com/xTerradon/bundestag/assets/64305142/f5240bd2-b47b-4d40-863f-31b1d7f675b9)
 ![073275ba-4b8b-49f5-9ef3-8da76406a6b2](https://github.com/xTerradon/bundestag/assets/64305142/19611219-7567-4cf6-8b2b-eb9e982f846a)
+
+## Data Importing
+Live Data Scraping through selenium, selenium-stealth, bs4 from https://www.bundestag.de/services/opendata
